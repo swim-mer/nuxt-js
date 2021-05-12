@@ -43,3 +43,6 @@ Basics of Nuxt.js
     - `index.vue` - default home page
       - `<template>`
 
+#### Pages
+- `.vue` files automatically routed by nuxt using vue-router configuration
+- Navigation to site pages: use `<NuxtLink to="/relative-page">` tags
