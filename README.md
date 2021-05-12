@@ -35,13 +35,25 @@ Basics of Nuxt.js
 #### From Scratch
 - In root directory:
   - `package.json`
-    - `name`, `scripts`
+    - name, dependencies, scripts
   
   - `yarn.lock` or `package-lock.json` created by installation of Nuxt
+
+  - `nuxt.config.js`
+    - add modules, override defaults
 
   - `pages` directory
     - `index.vue` - default home page
       - `<template>`
+
+  - `components` directory
+    - holds all `.vue` components, which are auto imported by nuxt
+
+  - `assets` directory
+    - holds uncompiled assets
+
+  - `static` directory
+    - holds files that have static names and is directly mapped to root
 
 #### Pages
 - `.vue` files automatically routed by nuxt using vue-router configuration
