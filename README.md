@@ -10,7 +10,7 @@ Basics of Nuxt.js
   - Ubuntu: `sudo apt install nodejs npm`
   - macOS: Download [here](https://nodejs.org)
 - Update:
-  - Ubuntu: `npm cache clean -f; npm install -g n; n latest
+  - Ubuntu: `npm cache clean -f; npm install -g n; n latest`
 
 #### Vue.js
 - Install:
