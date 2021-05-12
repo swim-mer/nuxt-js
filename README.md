@@ -19,6 +19,8 @@ Basics of Nuxt.js
 ### Running Nuxt.js
 #### Create new app
 - `npm init nuxt-app <project-name>`
+![Terminal output from `create-new-app`](from-npm.png)
+
 
 #### Install Nuxt
 - After creating the folder and `package.json` file, run: `npm install nuxt`
