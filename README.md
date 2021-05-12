@@ -20,12 +20,12 @@ Basics of Nuxt.js
 #### Create new app
 - `npm init nuxt-app <project-name>`
 
+#### Install Nuxt
+- After creating the folder and `package.json` file, run: `npm install nuxt`
+
 #### Run existing app
 - Navigate to root directory of app
 - Run: `npm run dev`
-
-#### Install Nuxt
-- After creating the folder and `package.json` file, run: `npm install nuxt`
 
 ### File Structure
 #### From Scratch
