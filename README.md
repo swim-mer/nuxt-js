@@ -35,4 +35,7 @@ Basics of Nuxt.js
   
   - `yarn.lock` or `package-lock.json` created by installation of Nuxt
 
+  - `pages` directory
+    - `index.vue` - default home page
+      - `<template>`
 
